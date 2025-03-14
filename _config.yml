@@ -1,5 +1,12 @@
 title: Albana Skeja # your name (or website title) here
 logo: "/images/Alba Skeja.jpeg?raw=true" # your photo (or logo) here
+.profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
 description: > 
   About Me:<br><br>
   Experienced financial and data science professional with expertise in business analytics, accounting, and predictive modeling. 
