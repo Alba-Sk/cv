@@ -1,6 +1,6 @@
-## Albana Skeja
+## Name Lastname
 
-### Financial & Data Science Professional
+### Professional
 
 Welcome to my GitHub page! I am an experienced financial and data science professional with expertise in business analytics, accounting, and predictive modeling.
 
