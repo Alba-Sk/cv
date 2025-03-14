@@ -1,6 +1,6 @@
 title: Albana Skeja # your name (or website title) here
 logo: "/images/Alba Skeja.jpeg?raw=true" # your photo (or logo) here
-.Alba Skeja.jpeg {
+.logo {
     border-radius: 50%;
     width: 150px;
     height: 150px;
